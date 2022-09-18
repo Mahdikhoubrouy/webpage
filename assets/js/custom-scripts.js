@@ -414,3 +414,11 @@
 
     
 }(jQuery));
+
+
+
+
+
+document.getElementById("cv").addEventListener("click",()=>{
+  alert("به زودی ...");
+})
